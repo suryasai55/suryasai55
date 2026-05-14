@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Morampudi Surya Sai a final year student in ALIET in the branch of CSE(AI&ML)<br><br>💻 I’m currently working on<br>Python Full Stack Development and building my coding consistency through a 120 Days Python Challenge.<br>🫶 I’m looking for help with<br>Improving problem-solving skills, advanced Python concepts, and real-world project development.<br><br>🌱 I’m currently learning<br>Python, Full Stack Development, Git & GitHub, SQL, and communication skills for placements and interviews.<br><br>💬 Ask me about<br>Python basics, GitHub setup, beginner coding journey, and tech learning strategies.<br><br>
+I am Morampudi Surya Sai a final year student in ALIET in the branch of CSE(AI&ML)<br><br>💻 I’m currently working on<br>Python Full Stack Development and building my coding consistency through a 120 Days Python Challenge.<br>🫶 I’m looking for help with<br>Improving problem-solving skills, advanced Python concepts, and real-world project development.<br><br>🌱 I’m currently learning<br>Python, Full Stack Development, Git & GitHub, SQL.<br><br>💬 Ask me about<br>Python basics, GitHub setup, beginner coding journey, and tech learning strategies.<br><br>
 
 
 ## 🌐 Socials:
